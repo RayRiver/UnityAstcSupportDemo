@@ -156,7 +156,7 @@ public class CustomSpritePackerPolicy : UnityEditor.Sprites.IPackerPolicy
                     }
                     else if (IsOpaqueCompressed(settings.format))
                     {
-                        settings.format = Util.ASTC_RGBA_FORMAT;
+                        settings.format = Util.ASTC_RGB_FORMAT;
                     }
                 }
 
