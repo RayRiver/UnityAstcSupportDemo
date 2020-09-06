@@ -9,4 +9,4 @@ Unity根据硬件支持来选择加载ASTC还是ETC/PVRTC的demo。
 - Play
 
 ## 详细说明
-[https://indienova.com/home/blogread/26816](https://indienova.com/home/blogread/26816)
+[https://indienova.com/indie-game-development/unity-astc-texture-compression/](https://indienova.com/indie-game-development/unity-astc-texture-compression/)
